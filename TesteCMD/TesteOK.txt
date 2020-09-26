@@ -1,0 +1,1 @@
+Este arquivo é um teste para mexer com o git sem ter que baixar programas de terceiros.
